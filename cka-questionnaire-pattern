@@ -1,0 +1,44 @@
+CKA exam is one of difficult exam I've faced so far and below is the summary of type of questionnaire you should be aware and practice a lot.
+
+Init Containers.
+Static Pods.
+ETCD Working & Backup Procedures.
+Troubleshooting of a cluster.
+Bootstrapping of a cluster.
+Deployments & exposing them as service.
+DNS Debugging for Pods & Services.
+Troubleshooting of a broken node within a cluster.
+Persistent Volumes & Persistent Volume Claims.
+Secrets & How to use them.
+Labels and Selectors.
+Multi-Container pods.
+Daemon Sets.
+Logging in Kubernetes.
+Formatting output using kubectl. 
+Taints and Tolerations. 
+
+Below are the URLs which you might handy for learning purpose:-
+
+https://github.com/kelseyhightower/kubernetes-the-hard-way
+https://kubernetes.io/docs/concepts/storage/persistent-volumes/
+https://kubernetes.io/docs/tasks/administer-cluster/static-pod/
+https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/
+https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
+https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet-tls-bootstrapping/
+https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/
+https://kubernetes.io/docs/tasks/debug-application-cluster/debug-cluster/
+https://kubernetes.io/docs/concepts/workloads/pods/init-containers/
+https://kubernetes.io/docs/concepts/configuration/secret/
+https://kubernetes.io/docs/reference/kubectl/conventions/
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/
+https://kubernetes.io/docs/concepts/configuration/taint-and-toleration/ 
+https://kubernetes.io/docs/concepts/services-networking/service/
+https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-intro/
+https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/ 
+https://kubernetes.io/docs/reference/kubectl/overview/
+https://www.manning.com/books/kubernetes-in-action
+https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.13/ 
+https://github.com/walidshaari/Kubernetes-Certified-Administrator
+
+
