@@ -1,0 +1,37 @@
+CKAD was an equally difficult exam for me and I would say you might find it more diffcult than CKA as number of questions are hardly less and time span is 2 hours. Below is the list of topics & links you should cover for CKAD.
+
+Deployments, Rolling Updates & Strategy. 
+Pod & Exposing pods. 
+Cronjob & Job.
+Network Policies.
+Liveness & Readiness Probe.
+Persistent Volume & Persistent Volume Claim.
+Secrets.
+Confgimaps.
+Sidecar, Ambassador, Adapter Containers. 
+Resources for Pod/deployment.
+Container with Arguments. 
+Label & Selectors.
+Logging.
+Service Accounts.
+Horizontal Pod Scaler.
+Security Context.
+
+https://matthewpalmer.net/kubernetes-app-developer/articles/multi-container-pod-design-patterns.html
+https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/
+https://kubernetes.io/docs/tasks/job/automated-tasks-with-cron-jobs/
+https://kubernetes.io/docs/concepts/workloads/controllers/jobs-run-to-completion/
+https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/
+https://kubernetes.io/docs/tasks/configure-pod-container/security-context/ 
+https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-probes/
+https://kubernetes.io/docs/tasks/administer-cluster/declare-network-policy/
+https://kubernetes.io/docs/tasks/configure-pod-container/configure-volume-storage/
+https://kubernetes.io/docs/concepts/configuration/manage-compute-resources-container/
+https://kubernetes.io/docs/tasks/inject-data-application/define-command-argument-container/
+https://github.com/dgkanatsios/CKAD-exercises 
+https://www.inovex.de/blog/test-kubernetes-network-policies/
+https://sysdig.com/blog/kubernetes-security-psp-network-policy/
+https://medium.com/@ikaboubi/my-feedback-about-cka-and-ckad-e82a35585fe9
+https://www.mankier.com/1/kubectl-get
+
+
